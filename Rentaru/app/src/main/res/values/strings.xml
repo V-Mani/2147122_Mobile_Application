@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Rentaru</string>
+    <string name="about_us">
+    Launched in 2005, RENTARU, India’s No. 1 property portal, deals with every aspect of the consumers’ needs in the real estate industry.\n\n
+        It is an online forum where buyers, sellers and brokers/agents can exchange information about real estate properties quickly, effectively and inexpensively.\n\n
+        At RENTARU, you can advertise a property, search for a property, browse through properties, build your own property microsite, and keep yourself updated with the latest news and trends making headlines in the realty sector.\n\n
+        <b>Why RENTARU?</b>\n\n
+        At present, RENTARU prides itself for having around nine lakh property listings spanning across 600+ cities in India. Of all, the website held over 5.7 lakh paid listings at the end of FY 2018-19.\n\n
+        In addition to providing an online platform to real estate developers, brokers and property owners for listing their property for sale, purchase or rent, RENTARU offers advertisement stints such as microsites, banners, home page links and project pages to the clients for better visibility and branding in the market.\n\n
+        With the ever-evolving online search behaviour, 99acres.com shares updated information pertinent to real estate activities, assisting prospective buyers to make informed buying decision. We make online property search easier, quicker and smarter!\n\n
+        </string>
+    <string name="awards"><b>Awards and Recognitions</b>\n\n
+        PropTech Mobile App of the Year Award 2019\n
+        RENTARU won the award for ‘Personalized User Journey’\n
+        Best Mobile Appies Award 2015\n
+        RENTARU won the award for having the ‘Most Innovative Mobile App’ in the real estate category.\n
+        CMO ASIA Awards 2012\n
+        RENTARU was awarded the ‘Most Admired Real Estate Website of the Year’ at the 3rd CMO Asia Awards for excellence in the real estate segment.\n
+        BCI Awards 2012\n
+        RENTARU was recognised as the ‘Best Real Estate Portal’ in 2012.\n
+        Accommodation Times Awards 2012\n
+        RENTARU was announced the ‘Best Online Realty Portal’ by the Accommodation Times in 2012.\n\n
+        <i>Please write to us at services@rentaru.com or call us at 1800 41 99099 (09:00 AM to 07:00 PM, Monday to Friday)</i></string>
+</resources>
