@@ -5,26 +5,27 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 
-public class splash_screen extends AppCompatActivity {
-    private  Thread run;
+public class sScreen2 extends AppCompatActivity {
+    private Thread run;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_splash_screen);
+        setContentView(R.layout.activity_sscreen2);
         getSupportActionBar().hide();
 
         Thread thread = new  Thread(){
             public void run(){
+
                 try {
-                    sleep (2000);
+                    sleep (4000);
                 }
                 catch (Exception e)
                 {
                     e.printStackTrace();
                 }
                 finally {
-                    Intent i = new Intent(splash_screen.this,LoginActivity.class);
+                    Intent i = new Intent(sScreen2.this,LoginActivity.class);
                     startActivity(i);
                 }
             }
