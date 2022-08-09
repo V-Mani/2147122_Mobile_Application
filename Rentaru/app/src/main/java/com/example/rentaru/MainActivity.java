@@ -76,4 +76,10 @@ public class MainActivity extends AppCompatActivity {
         startActivity(i_reg);
         finish();
     }
+
+    public void jmp_home(View view) {
+        Intent i_reg = new Intent(this,HomeActivity.class);
+        startActivity(i_reg);
+        finish();
+    }
 }
