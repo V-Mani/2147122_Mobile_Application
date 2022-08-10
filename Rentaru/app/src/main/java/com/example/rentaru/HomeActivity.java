@@ -25,6 +25,7 @@ public class HomeActivity extends AppCompatActivity implements AdapterView.OnIte
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
         spinner.setAdapter(adapter);
         spinner.setOnItemSelectedListener(this);
+        getSupportActionBar().hide();
 
         conLayout = findViewById(R.id.conLayout);
     }

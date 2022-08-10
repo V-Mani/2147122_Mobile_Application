@@ -82,4 +82,10 @@ public class MainActivity extends AppCompatActivity {
         startActivity(i_reg);
         finish();
     }
+
+    public void jmptorateus(View view) {
+        Intent i_reg = new Intent(this,ReviewActivity.class);
+        startActivity(i_reg);
+        finish();
+    }
 }
